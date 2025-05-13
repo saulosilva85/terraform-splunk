@@ -5,7 +5,7 @@ Splunk é uma plataforma de big data que facilita a coleta, armazenamento, pesqu
 
 # Detalhes sobre a ferramenta:
 
-Coleta e Indexação de Dados:
+# Coleta e Indexação de Dados:
 O Splunk coleta dados de diversas fontes, como logs de sistemas, aplicativos, servidores e dispositivos. Ele indexa esses dados para que sejam pesquisáveis e analisáveis.
 
 Análise de Dados:
