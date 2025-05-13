@@ -27,8 +27,8 @@ Splunk Cloud: Uma versão em nuvem.
 Splunk Hunk: Uma versão para análise de dados em ambientes Hadoop.
 
 ## Benefícios:
-**Passo 1:** Facilidade de uso, com uma interface web intuitiva. 
-➡️ Flexibilidade, com suporte a diversas fontes de dados e formatos. 
-➡️ Escalabilidade, com capacidade de lidar com grandes volumes de dados. 
-➡️ Capacidade de identificar padrões e anomalias nos dados. 
-➡️ Ferramenta para monitorar e analisar o Big Data gerado pelos sistemas, infraestrutura de tecnologia e aplicativos. 
+➤ Facilidade de uso, com uma interface web intuitiva. 
+➤ Flexibilidade, com suporte a diversas fontes de dados e formatos. 
+➤ Escalabilidade, com capacidade de lidar com grandes volumes de dados. 
+➤ Capacidade de identificar padrões e anomalias nos dados. 
+➤ Ferramenta para monitorar e analisar o Big Data gerado pelos sistemas, infraestrutura de tecnologia e aplicativos. 
