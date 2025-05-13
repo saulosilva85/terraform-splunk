@@ -26,7 +26,7 @@ Splunk Enterprise: Uma plataforma de grande porte para gerenciamento de big data
 Splunk Cloud: Uma versão em nuvem. 
 Splunk Hunk: Uma versão para análise de dados em ambientes Hadoop.
 
-# Benefícios:
+## Benefícios:
 Facilidade de uso, com uma interface web intuitiva. 
 Flexibilidade, com suporte a diversas fontes de dados e formatos. 
 Escalabilidade, com capacidade de lidar com grandes volumes de dados. 
