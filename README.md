@@ -1,4 +1,4 @@
-# Splunk com terraform
+# Splunk
 
 ## O que é Splunk?
 Splunk é uma plataforma de big data usada para coletar, indexar e analisar dados gerados por máquinas, como logs, em tempo real. É amplamente utilizado para segurança cibernética, monitoramento de TI, análise de aplicativos e análise de negócios. O Splunk permite que as organizações pesquisem, visualizem e monitorem grandes volumes de dados para obter insights e tomar decisões informadas.
