@@ -16,15 +16,15 @@ Facilita a criação de alertas baseados em padrões de dados e a geração de r
 
 **Aplicações:**\
 É usado em diversas áreas, incluindo:\
-Segurança: Monitoramento de eventos de segurança, detecção de intrusões, análise de ameaças.\
-Gerenciamento de Aplicações: Monitoramento do desempenho, resolução de problemas, otimização de aplicativos.\
-Inteligência de Negócios: Análise de dados para tomadas de decisão, identificação de tendências, otimização de processos.
+**Segurança:** Monitoramento de eventos de segurança, detecção de intrusões, análise de ameaças.\
+**Gerenciamento de Aplicações:** Monitoramento do desempenho, resolução de problemas, otimização de aplicativos.\
+**Inteligência de Negócios:** Análise de dados para tomadas de decisão, identificação de tendências, otimização de processos.
 
 **Versões:**\
 O Splunk oferece diferentes versões, incluindo:\
-Splunk Enterprise: Uma plataforma de grande porte para gerenciamento de big data.\
-Splunk Cloud: Uma versão em nuvem.\
-Splunk Hunk: Uma versão para análise de dados em ambientes Hadoop.
+**Splunk Enterprise:** Uma plataforma de grande porte para gerenciamento de big data.\
+**Splunk Cloud:** Uma versão em nuvem.\
+**Splunk Hunk:** Uma versão para análise de dados em ambientes Hadoop.
 
 ## Benefícios:
 1. Facilidade de uso, com uma interface web intuitiva. 
