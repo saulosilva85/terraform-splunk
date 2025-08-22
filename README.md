@@ -21,7 +21,7 @@ Gerenciamento de Aplicações: Monitoramento do desempenho, resolução de probl
 Inteligência de Negócios: Análise de dados para tomadas de decisão, identificação de tendências, otimização de processos.
 
 **Versões:**
-O Splunk oferece diferentes versões, incluindo:
+O Splunk oferece diferentes versões, incluindo:\
 Splunk Enterprise: Uma plataforma de grande porte para gerenciamento de big data. 
 Splunk Cloud: Uma versão em nuvem. 
 Splunk Hunk: Uma versão para análise de dados em ambientes Hadoop.
