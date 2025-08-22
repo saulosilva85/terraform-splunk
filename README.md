@@ -22,8 +22,8 @@ Inteligência de Negócios: Análise de dados para tomadas de decisão, identifi
 
 **Versões:**\
 O Splunk oferece diferentes versões, incluindo:\
-Splunk Enterprise: Uma plataforma de grande porte para gerenciamento de big data. 
-Splunk Cloud: Uma versão em nuvem. 
+Splunk Enterprise: Uma plataforma de grande porte para gerenciamento de big data.\
+Splunk Cloud: Uma versão em nuvem.\
 Splunk Hunk: Uma versão para análise de dados em ambientes Hadoop.
 
 ## Benefícios:
