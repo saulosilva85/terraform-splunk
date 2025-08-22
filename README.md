@@ -14,10 +14,10 @@ Permite a pesquisa, análise, visualização e correlação de informações.
 **Alertas e Relatórios:**
 Facilita a criação de alertas baseados em padrões de dados e a geração de relatórios personalizados.
 
-**Aplicações:**
-É usado em diversas áreas, incluindo:
-Segurança: Monitoramento de eventos de segurança, detecção de intrusões, análise de ameaças. 
-Gerenciamento de Aplicações: Monitoramento do desempenho, resolução de problemas, otimização de aplicativos. 
+**Aplicações:**\
+É usado em diversas áreas, incluindo:\
+Segurança: Monitoramento de eventos de segurança, detecção de intrusões, análise de ameaças.\
+Gerenciamento de Aplicações: Monitoramento do desempenho, resolução de problemas, otimização de aplicativos.\ 
 Inteligência de Negócios: Análise de dados para tomadas de decisão, identificação de tendências, otimização de processos.
 
 **Versões:**\
